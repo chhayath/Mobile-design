@@ -1,0 +1,33 @@
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////// Custom CSS Rules Start                                                                             */
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/* slider page*/
+
+h1 {
+    color:#000;
+    font-weight: normal;
+}
+.bg-top-slider{
+    background: url("../images/bg-slider-last.png") no-repeat;
+    height:auto;
+}
+.bg-top-slider1{
+    background: url("../images/bg-slider-last1.png") no-repeat bottom;
+    height:auto;
+}
+.text-top-slider{
+    color:#000;
+    margin-left: 10px;
+}
+.text-slider{
+    font-size: 17px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 40px;
+
+}
+.sliderOuterWrapper{
+    padding-top: 50px;
+}

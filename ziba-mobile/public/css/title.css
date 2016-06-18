@@ -1,0 +1,27 @@
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////// Custom CSS Rules Start                                                                             */
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/* title page*/
+
+h1 {
+    color:#000;
+    font-weight: normal;
+}
+.bg-top-title{
+    background: url("/img/bg-title.png") no-repeat center;
+    height:270px;
+}
+.space-top-tilte{
+    margin-top: 100px;
+}
+.space-text-tilte{
+    padding-top: 40px;
+    font-size: 17px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.spacetop-title-img{
+    margin-top: 30px;
+}

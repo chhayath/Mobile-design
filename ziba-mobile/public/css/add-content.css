@@ -1,0 +1,94 @@
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////// Custom CSS Rules Start                                                                             */
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+/* add-content page*/
+
+h2{
+	color:#000;
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+h4{
+  color:#000;
+  font-weight: normal;
+  margin-top: 30px;
+}
+.download{
+    border: 2px solid #000;
+    border-style: dashed;
+    height: 120px;
+    padding: 35px 15px;
+    width: 120px;
+    margin-left: 15px;
+}
+.space-top-content{
+  margin-top:30px;
+}
+
+#style_login_a {
+    border: 2px solid #7d7d7d;
+    border-radius: 0;
+}
+
+.btn_login_a {
+    -moz-user-select: none;
+    background: #000 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1.2em;
+    line-height: 1.42857;
+    margin-top: 20px;
+    padding: 7px 30px;
+    text-align: center;
+}
+.btn_login_b {
+    -moz-user-select: none;
+    background: #f9ff00 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 0;
+    color: #000;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1.2em;
+    line-height: 1.42857;
+    margin-top: 20px;
+    padding: 12px 50px;
+    text-align: center;
+    font-weight: bold;
+}
+.form-control-b {
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #555;
+    display: block;
+    font-size: 14px;
+    height: 50px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    vertical-align: middle;
+    width: 100%;
+}
+.spacetop-content-mobile{
+  margin-top: 50px;
+   margin-bottom: 50px;
+}
+.img-thumbnail {
+    background-color: #fff;
+    border: 2px solid #7d7d7d;
+    border-radius: 0px;
+    margin-bottom: 30px;
+}
+.left{
+    margin-right: 60px;
+}

@@ -1,0 +1,159 @@
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////// Custom CSS Rules Start                                                                             */
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+.headerWrapper {
+    padding-left: 24px;
+    padding-right: 24px;
+    z-index: 9990;
+    height: 54px;
+    background-color: #fff;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.0);
+	border-bottom:1px solid #ddd;
+}
+
+.mainMenuWrapper {
+    clear: both;
+    display: none;
+    background-color: #ffff00;
+    padding-left: 0px;
+    margin: 0px;
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    border-bottom: 3px solid #FFDF50;
+}
+
+.mainMenuWrapper > li {
+    line-height: 36px;
+    border-bottom: 0px solid #393939;
+    margin-bottom: 0px;
+    padding-left: 0px;
+    list-style: outside none none;
+}
+
+.mainMenuWrapper > li > a {
+    margin-left: 0px;
+    /*background: transparent url("../images/skins/default/mainMenuItemBg.png") no-repeat scroll 0px 0px;*/
+    color: #000;
+    padding-left: 16px;
+    text-align: center;
+	font-size: 20px;
+	padding: 10px;
+	font-family:Helvetica;
+	font-weight:normal;
+}
+.mainMenuWrapper > li > a input[type="text"]{
+	border-radius: 0px;
+	background:#333;
+	color:#fff;	
+	padding:20px;	
+	border:1px solid #333;
+}
+.mainMenuWrapper > li > a .input-group-addon {
+    padding: 6px 12px 6px 0px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #ffff00;
+    border: 1px solid #ffff00;
+    border-radius: 4px;
+}
+.mainMenuWrapper > li > a .input-group-unstyled{
+	margin-top:15px;
+	margin-bottom:25px;
+}
+.mainMenuWrapper > li.currentPage > a {
+    color: #ffffff;
+    background-position: 0px -36px;
+}
+.pageWrapper .items{
+	padding-bottom:10px;
+	overflow:hidden;
+	border-bottom:1px solid #ddd;
+	margin-bottom:35px;
+}
+.pageWrapper .thumbnail {
+    display: block;
+    padding: 25px;
+    margin-bottom: 20px;
+    line-height: 1.42857;
+    background-color: #FFF;
+    border: 0px solid #ddd;
+    border-radius: 0px;
+    transition: all 0.2s ease-in-out 0s;
+	
+}
+
+.pageWrapper  span.caption{
+	color:#888;
+}
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/*//////////////////// Custom CSS Rules End                                                                               */
+/*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
+/* bg_beauty */
+.bg_beauty1{
+	background:url("../img/bg_beauty1.png") repeat-y;
+	background-size:100%;
+}
+.bg_beauty2{
+	background:url("../img/bg_beauty2.png") repeat-y;
+	background-size:100%;
+}
+.bg_beauty3{
+	background:url("../img/bg_beauty3.png") repeat-y;
+	background-size:100%;
+}
+.bg_beauty4{
+	background:url("../img/bg_beauty4.png") repeat-y;
+	background-size:100%;
+}
+.bg_beauty5{
+	background:url("../img/bg_beauty5.png") repeat-y;
+	background-size:100%;
+}
+
+/* bg_lifesyle */
+.bg_lifestyle1{
+	background:url("../img/bg_lifestyle1.png") repeat-y;
+	background-size:100%;
+}
+.bg_lifestyle2{
+	background:url("../img/bg_lifestyle2.png") repeat-y;
+	background-size:100%;
+}
+.bg_lifestyle3{
+	background:url("../img/bg_lifestyle3.png") repeat-y;
+	background-size:100%;
+}
+.bg_lifestyle4{
+	background:url("../img/bg_lifestyle4.png") repeat-y;
+	background-size:100%;
+}
+.bg_lifestyle5{
+	background:url("../img/bg_lifestyle5.png") repeat-y;
+	background-size:100%;
+}
+
+/* bg_fashion */
+.bg_fashion1{
+	background:url("../img/bg_fashion1.png") repeat-y;
+	background-size:100%;
+}
+.bg_fashion2{
+	background:url("../img/bg_fashion2.png") repeat-y;
+	background-size:100%;
+}
+.bg_fashion3{
+	background:url("../img/bg_fashion3.png") repeat-y;
+	background-size:100%;
+}
+.bg_fashion4{
+	background:url("../img/bg_fashion4.png") repeat-y;
+	background-size:100%;
+}
+.bg_fashion5{
+	background:url("../img/bg_fashion5.png") repeat-y;
+	background-size:100%;
+}
